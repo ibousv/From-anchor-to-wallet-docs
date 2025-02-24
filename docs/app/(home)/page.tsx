@@ -14,6 +14,8 @@ export default function HomePage() {
         </Link>{' '}
         and see the documentation.
       </p>
+      Deep dive into the creation of an fast and reliable wallet app backed by stellar
+      Build nextgen wallet app with stellar
     </main>
   );
 }
